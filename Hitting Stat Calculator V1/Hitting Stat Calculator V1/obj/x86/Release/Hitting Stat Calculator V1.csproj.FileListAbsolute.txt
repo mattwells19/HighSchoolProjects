@@ -1,0 +1,18 @@
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\bin\Release\Hitting Stat Calculator V1.exe
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\bin\Release\Hitting Stat Calculator V1.pdb
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting.Form1.resources
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting.Form2.resources
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting.Form3.resources
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting.Properties.Resources.resources
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting Stat Calculator V1.exe
+C:\Users\1283892\Desktop\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting Stat Calculator V1.pdb
+E:\CP2 Projects\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting Stat Calculator V1.exe
+E:\CP2 Projects\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting Stat Calculator V1.pdb
+E:\CP2 Projects\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting Stat Calculator V1.csprojResolveAssemblyReference.cache
+E:\CP2 Projects\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting.Form1.resources
+E:\CP2 Projects\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting.Form2.resources
+E:\CP2 Projects\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting.Form3.resources
+E:\CP2 Projects\Hitting Stat Calculator V1\Hitting Stat Calculator V1\obj\x86\Release\Hitting Stat Calculator V1.csproj.GenerateResource.Cache

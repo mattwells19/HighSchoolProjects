@@ -1,0 +1,8 @@
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\obj\x86\Debug\Hitting.Form1.resources
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\obj\x86\Debug\Hitting.Properties.Resources.resources
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\obj\x86\Debug\Hitting.csproj.GenerateResource.Cache
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\bin\Debug\Hitting.exe
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\bin\Debug\Hitting.pdb
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\obj\x86\Debug\Hitting.exe
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\obj\x86\Debug\Hitting.pdb
+C:\Users\matt\AppData\Local\Temporary Projects\Hitting\obj\x86\Debug\Hitting.Form2.resources

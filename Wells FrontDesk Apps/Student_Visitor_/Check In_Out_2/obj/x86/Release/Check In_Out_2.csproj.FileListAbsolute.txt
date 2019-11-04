@@ -1,0 +1,62 @@
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Release\Check In_Out_2.exe
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Release\Check In_Out_2.pdb
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Release\AForge.dll
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.dll
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Form1.resources
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Properties.Resources.resources
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.csproj.GenerateResource.Cache
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.exe
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.pdb
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.csprojResolveAssemblyReference.cache
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.exe
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.pdb
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\Check In_Out_2.exe
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\Check In_Out_2.pdb
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\AForge.dll
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.dll
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\AForge.xml
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.xml
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.csprojResolveAssemblyReference.cache
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Form1.resources
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Properties.Resources.resources
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.csproj.GenerateResource.Cache
+C:\Users\cteadmin\Desktop\Checking In and Out Programs\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.PleaseWait.resources
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.exe
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.pdb
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\Check In_Out_2.exe
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\Check In_Out_2.pdb
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\AForge.dll
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.dll
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\AForge.xml
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.xml
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.csprojResolveAssemblyReference.cache
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Form1.resources
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Form2.resources
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.PleaseWait.resources
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Properties.Resources.resources
+C:\Users\cteadmin\Desktop\Checking In and Out Programs - With Sub\Check In_Out_2\Check In_Out_2\obj\x86\Release\Check In_Out_2.csproj.GenerateResource.Cache
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\AForge.dll
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\AForge.Video.dll
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\AForge.xml
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\AForge.Video.xml
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Check In_Out_2.csprojResolveAssemblyReference.cache
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Form1.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Check_In_Out_2.Form2.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Check_In_Out_2.PleaseWait.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Check In_Out_2.csproj.GenerateResource.Cache
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Wells_FrontDesk_Check_In.Properties.Resources.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\Wells FrontDesk Check In.exe
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\Wells FrontDesk Check In.pdb
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Wells FrontDesk Check In.exe
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Wells FrontDesk Check In.pdb
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\Wells FrontDesk Check In.exe.manifest
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Release\Wells FrontDesk Check In.application
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Wells FrontDesk Check In.exe.manifest
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Release\Wells FrontDesk Check In.application

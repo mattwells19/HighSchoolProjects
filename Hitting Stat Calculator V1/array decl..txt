@@ -1,0 +1,8 @@
+int[] w = new int[row];
+            int[] hp = new int[row];
+            int[] abb = new int[row];
+            int[] s = new int[row];
+            int[] si = new int[row];
+            int[] dol = new int[row];
+            int[] tr = new int[row];
+            int[] hr = new int[row];

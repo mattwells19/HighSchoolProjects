@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Wells FrontDesk Check In.exe" version="1.0.0.0" publicKeyToken="5254c225afedb2a7" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Time-Transparent-PNG-03538.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Wells FrontDesk Check In" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Wells FrontDesk Check In.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.dll" size="17920">
+      <assemblyIdentity name="AForge" version="2.2.5.0" publicKeyToken="C1DB6FF4EAA06AEB" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>LansdhKDXh9p1Kk6otSeyb3/f3w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.dll" size="20992">
+      <assemblyIdentity name="AForge.Video" version="2.2.5.0" publicKeyToken="CBFB6E07D173C401" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>3f/c7yna3cNsp9iuLI4Bwci7I6g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.DirectShow.dll" size="61440">
+      <assemblyIdentity name="AForge.Video.DirectShow" version="2.2.5.0" publicKeyToken="61EA4348D43881B7" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>06F8H91tVJURQQU/iL+CON6guTc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wells FrontDesk Check In.exe" size="242688">
+      <assemblyIdentity name="Wells FrontDesk Check In" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>gmC2Qt0QfplIl2T+Nvf+53gWyJM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Time-Transparent-PNG-03538.ico" size="40718">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jXpu1nJDOh3414fH4UQNFplGiiY=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ABSS\CTEPLTW" issuerKeyHash="c3b3678406c9a16b356fc6dcb0fb6d899f6d07b6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>dEv8ZtIqg+78ovR5MkfOoC3Hxrs=</DigestValue></Reference></SignedInfo><SignatureValue>bu7UW2Z36rczDHcP+8iRMySZI+aYJTVpxUPNVdlDMkhWqMDgGdzi1M8XG0kZS+hGiIYGRUZdz76vroABTsmzdhcE2EZzjg4ngsx3EK6qYufTHYPTCap53W6ZUEaYghyWze+sKXCtBr+pQKIW4bVbN8e+7v8nGZdunceuQPuWyw4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>iSKYxp95q5rsZ5UncR8GxiczF6H+uOFXjthTzn62mNnc++Kc5MowMKkBZwiXjWcZyDGkA2gwY1nCUCL8a32QFThVaZLf9dH7k82AUV9LTNNZILZWTHawYjr6nfbGNai+FbkiDVdfbyLf8OgPlf1mqlFESL9LIWpr5HGumct3yTs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bbc6c72da0ce473279f4a2fcee832ad266fc4b74" Description="" Url=""><as:assemblyIdentity name="Wells FrontDesk Check In.exe" version="1.0.0.0" publicKeyToken="5254c225afedb2a7" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ABSS\CTEPLTW</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>N/xFQS7YXyEJmhaT0vI648fvKnM=</DigestValue></Reference></SignedInfo><SignatureValue>fy8CLfBTTI20ieG/umFWyKn/X+K5yiOnTwqLQFajZCk5AWK3Gywfb/WMAu+H7G59bKuJvzKReBIubRjzzKW9VvgLnTsjVWtIqq16aApbV71BcPwRmRfJEcgl8mgmIX/of8lgQlfYaoDTjELaE635qo3kly9ZGlLGmzCZoiK+yvg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>iSKYxp95q5rsZ5UncR8GxiczF6H+uOFXjthTzn62mNnc++Kc5MowMKkBZwiXjWcZyDGkA2gwY1nCUCL8a32QFThVaZLf9dH7k82AUV9LTNNZILZWTHawYjr6nfbGNai+FbkiDVdfbyLf8OgPlf1mqlFESL9LIWpr5HGumct3yTs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQV7AibER/BYRIBgHrQc4ysTANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgAQQBCAFMAUwBcAEMAVABFAFAATABUAFcwHhcNMTUxMjE0MTUzNzIzWhcNMTYxMjEzMjEzNzIzWjAjMSEwHwYDVQQDHhgAQQBCAFMAUwBcAEMAVABFAFAATABUAFcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIkimMafeaua7GeVJ3EfBsYnMxeh/rjhV47YU85+tpjZ3PvinOTKMDCpAWcIl41nGcgxpANoMGNZwlAi/Gt9kBU4VWmS3/XR+5PNgFFfS0zTWSC2Vkx2sGI6+p32xjWovhW5Ig1XX28i3/DoD5X9ZqpRREi/SyFqa+RxrpnLd8k7AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAdHuTj6M/fCHpYczxGi5FeBLPxgOn6m6deSs9RJvKxrogQyd+M2wlE7YI368L7wE3xae3YKYN+Q5deR9n85+rQhsdS+6W1ZmFvTZwvwUEXkZ0TZvT0z9NzO7eKqCBjXpT4EjLMah5vKWo61cECSZ7NpDkn0ofk9AU2U3pGHI+iQU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,11 @@
+c:\users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\bin\Debug\Boy Scout Badge Tracker.exe
+c:\users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\bin\Debug\Boy Scout Badge Tracker.pdb
+c:\users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy_Scout_Badge_Tracker.Form1.resources
+c:\users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy_Scout_Badge_Tracker.Properties.Resources.resources
+c:\users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy Scout Badge Tracker.csproj.GenerateResource.Cache
+c:\users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy Scout Badge Tracker.exe
+c:\users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy Scout Badge Tracker.pdb
+C:\Users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy Scout Badge Tracker.csprojResolveAssemblyReference.cache
+C:\Users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy_Scout_Badge_Tracker.newsc.resources
+C:\Users\cteadmin\documents\visual studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy_Scout_Badge_Tracker.lvl2.resources
+C:\Users\cteadmin\Documents\Visual Studio 2010\Projects\Boy Scout Badge Tracker\Boy Scout Badge Tracker\obj\x86\Debug\Boy_Scout_Badge_Tracker.level3.resources

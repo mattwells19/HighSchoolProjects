@@ -1,0 +1,65 @@
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Debug\Check In_Out_2.exe
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Debug\Check In_Out_2.pdb
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Debug\AForge.dll
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\bin\Debug\AForge.Video.dll
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csprojResolveAssemblyReference.cache
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Form1.resources
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Properties.Resources.resources
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csproj.GenerateResource.Cache
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Debug\Check In_Out_2.exe
+c:\users\cteadmin\documents\visual studio 2010\Projects\Check In_Out_2\Check In_Out_2\obj\x86\Debug\Check In_Out_2.pdb
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.exe.manifest
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.application
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.exe
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.pdb
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.dll
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.dll
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.xml
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.xml
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csprojResolveAssemblyReference.cache
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Form1.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Form2.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.PleaseWait.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells_FrontDesk_Check_In.Properties.Resources.resources
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csproj.GenerateResource.Cache
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.exe.manifest
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.application
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.exe
+C:\Users\cteadmin\Desktop\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.pdb
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.exe.manifest
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.application
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.exe
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.pdb
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.xml
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.xml
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.DirectShow.xml
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csprojResolveAssemblyReference.cache
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Form1.resources
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Form2.resources
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.PleaseWait.resources
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells_FrontDesk_Check_In.Properties.Resources.resources
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csproj.GenerateResource.Cache
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.exe.manifest
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.application
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.exe
+D:\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.pdb
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.exe.manifest
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.application
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.exe
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\Wells FrontDesk Check In.pdb
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.xml
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.xml
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csprojResolveAssemblyReference.cache
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Form1.resources
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.Form2.resources
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check_In_Out_2.PleaseWait.resources
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells_FrontDesk_Check_In.Properties.Resources.resources
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Check In_Out_2.csproj.GenerateResource.Cache
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.exe.manifest
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.application
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.exe
+C:\Users\mattw\OneDrive\Bulb\Wells FrontDesk Apps\Student_Visitor_\Check In_Out_2\obj\x86\Debug\Wells FrontDesk Check In.pdb
